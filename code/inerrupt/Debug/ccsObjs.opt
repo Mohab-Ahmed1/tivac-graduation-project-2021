@@ -1,1 +1,0 @@
-"./GPIO_program.obj" "./GPS_program.obj" "./UART_program.obj" "./main.obj" "./timer_program.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a 
